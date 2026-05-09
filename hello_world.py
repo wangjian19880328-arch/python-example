@@ -1,0 +1,1 @@
+print('Hello, World! This is a Python script created via Grok on GitHub.')
